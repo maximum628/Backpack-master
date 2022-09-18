@@ -1,0 +1,12 @@
+/.env
+target
+.vscode
+/uploads
+test
+*_archive
+*.code-workspace
+
+# SQLite files
+*.db*
+*.sqlite*
+*.sqlite3*
